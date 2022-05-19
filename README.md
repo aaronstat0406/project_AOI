@@ -43,7 +43,7 @@ The procedure for obtaining the textural features of an image is based on the as
 that the texture information on an image is contained in the overall or average spatial
 relationship which the gray tones in the image have to one another
 
-## Concept Explain-Gray-Tone Spatial Dependence Matrix
+## Concept Explain - Gray-Tone Spatial Dependence Matrix
 Our texture information of a image can be extracted from the gray-tone spatial dependence
 matrix. We use the information derived from gray-tone spatial dependence matrix to
 compute 14 equations (f1 to f14) for measuring textrual features given in Appendix I of this
